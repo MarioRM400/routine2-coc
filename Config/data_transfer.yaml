@@ -1,0 +1,523 @@
+INNER_PROJECT_DIR: C:\ConceivableProjects\Rutine2\v0.0.1
+augmented_data_names: []
+classes_config: yolov5\models\yolov5l.yaml
+code_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Code
+code_train_runs: C:\ConceivableProjects\Rutine2\v0.0.1\Code\runs\train
+data_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data
+data_location_yaml: C:\ConceivableProjects\Rutine2\v0.0.1\Config\data_location.yaml
+data_yaml: yolov5\data\data_location.yaml
+destine_exp_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\runs\train1_results
+detects_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\Detects
+final_folder_names:
+- Weights
+- Launchers
+- Config
+- Data
+- Export
+hyp_yaml: yolov5\data\hyps\hyp.basic.yaml
+hyps_yaml: C:\ConceivableProjects\Rutine2\v0.0.1\Config\hyps.yaml
+imgs_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\images
+imgs_train_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\images\train
+imgs_val_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\images\val
+launchers_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Launchers
+lbs_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\labels
+lbs_train_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\labels\train
+lbs_val_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Data\labels\val
+new_weights: C:\ConceivableProjects\Rutine2\v0.0.1\Weights\best.pt
+params_yaml_dir: params.yaml
+pre_weights: C:\ConceivableProjects\Rutine2\v0.0.1\Weights\pre.pt
+runs_directory: C:\ConceivableProjects\Rutine2\v0.0.1\Data\runs
+train_bg:
+- AR2 - 1_frame_1084.jpg
+- AR2 - 1_frame_1088.jpg
+- AR2 - 1_frame_1092.jpg
+- AR2 - 1_frame_1096.jpg
+- AR2 - 1_frame_1100.jpg
+- AR2 - 1_frame_1104.jpg
+- AR2 - 1_frame_1108.jpg
+- AR2 - 1_frame_1112.jpg
+- AR2 - 1_frame_1116.jpg
+- AR2 - 1_frame_1120.jpg
+- AR2 - 1_frame_368.jpg
+- AR2 - 1_frame_372.jpg
+- AR2 - 1_frame_376.jpg
+- AR2 - 1_frame_380.jpg
+- AR2 - 1_frame_384.jpg
+- AR2 - 1_frame_388.jpg
+- AR2 - 1_frame_392.jpg
+- AR2 - 1_frame_396.jpg
+- AR2 - 1_frame_400.jpg
+- AR2 - 1_frame_404.jpg
+- AR2 - 1_frame_408.jpg
+- AR2 - 1_frame_412.jpg
+- AR2 - 1_frame_416.jpg
+- AR2 - 1_frame_420.jpg
+- AR2 - 1_frame_424.jpg
+- AR2 - 1_frame_428.jpg
+- AR2 - 1_frame_432.jpg
+- AR2 - 1_frame_436.jpg
+- AR2 - 1_frame_440.jpg
+- AR2 - 1_frame_444.jpg
+- AR2 - 1_frame_448.jpg
+- AR2 - 1_frame_452.jpg
+- AR2 - 1_frame_456.jpg
+- AR2 - 1_frame_460.jpg
+- AR2 - 1_frame_464.jpg
+- AR2 - 1_frame_468.jpg
+- AR2 - 1_frame_472.jpg
+- AR2 - 1_frame_476.jpg
+- AR2 - 1_frame_480.jpg
+- AR2 - 1_frame_484.jpg
+- AR2 - 1_frame_488.jpg
+- AR2 - 1_frame_492.jpg
+- AR2 - 1_frame_496.jpg
+- AR2 - 1_frame_500.jpg
+- AR2 - 1_frame_504.jpg
+- AR2 - 1_frame_508.jpg
+- AR2 - 1_frame_512.jpg
+- AR2 - 1_frame_516.jpg
+- AR2 - 1_frame_520.jpg
+- AR2 - 1_frame_524.jpg
+- AR2 - 1_frame_528.jpg
+- AR2 - 1_frame_532.jpg
+- AR2 - 1_frame_536.jpg
+- AR2 - 1_frame_540.jpg
+- AR2 - 1_frame_544.jpg
+- AR2 - 1_frame_548.jpg
+- AR2 - 1_frame_552.jpg
+- AR2 - 1_frame_556.jpg
+- AR2 - 1_frame_560.jpg
+- AR2 - 1_frame_564.jpg
+- AR2 - 1_frame_568.jpg
+- AR2 - 1_frame_572.jpg
+- AR2 - 1_frame_576.jpg
+- AR2 - 1_frame_580.jpg
+- AR2 - 1_frame_584.jpg
+- AR2 - 1_frame_588.jpg
+- AR2 - 1_frame_592.jpg
+- AR2 - 1_frame_596.jpg
+- AR2 - 1_frame_600.jpg
+- AR2 - 1_frame_604.jpg
+- AR2 - 1_frame_608.jpg
+- AR2 - 1_frame_612.jpg
+- AR2 - 1_frame_616.jpg
+- AR2 - 1_frame_620.jpg
+- AR2 - 1_frame_624.jpg
+- AR2 - 1_frame_628.jpg
+- AR2 - 1_frame_632.jpg
+- AR2 - 1_frame_636.jpg
+- AR2 - 1_frame_640.jpg
+- AR2 - 1_frame_644.jpg
+- AR2 - 1_frame_648.jpg
+- AR2 - 1_frame_652.jpg
+- AR2 - 1_frame_656.jpg
+- AR2 - 1_frame_660.jpg
+- AR2 - 1_frame_664.jpg
+- AR2 - 1_frame_668.jpg
+- AR2 - 1_frame_672.jpg
+- AR2 - 1_frame_676.jpg
+- AR2 - 1_frame_680.jpg
+- AR2 - 1_frame_684.jpg
+- AR2 - 1_frame_688.jpg
+- AR2 - 1_frame_692.jpg
+- AR2 - 1_frame_696.jpg
+- AR2 - 1_frame_700.jpg
+- AR2 - 1_frame_704.jpg
+- AR2 - 1_frame_708.jpg
+- AR2 - 1_frame_712.jpg
+- AR2 - 1_frame_716.jpg
+- AR2 - 1_frame_720.jpg
+- AR2 - 1_frame_724.jpg
+- AR2 - 1_frame_728.jpg
+- AR2 - 1_frame_732.jpg
+- AR2 - 1_frame_736.jpg
+- AR2 - 1_frame_740.jpg
+- AR2 - 1_frame_744.jpg
+- AR2 - 1_frame_748.jpg
+- AR2 - 1_frame_752.jpg
+- AR2 - 1_frame_756.jpg
+- AR2 - 1_frame_760.jpg
+- AR2 - 1_frame_764.jpg
+- AR2 - 1_frame_768.jpg
+- AR2 - 1_frame_772.jpg
+- AR2 - 1_frame_776.jpg
+- AR2 - 1_frame_780.jpg
+- AR2 - 1_frame_784.jpg
+- AR2 - 1_frame_788.jpg
+- AR2 - 1_frame_792.jpg
+- AR2 - 1_frame_796.jpg
+- AR2 - 1_frame_800.jpg
+- AR2 - 1_frame_804.jpg
+- AR2 - 1_frame_808.jpg
+- AR2 - 1_frame_812.jpg
+- AR2 - 1_frame_816.jpg
+- AR2 - 1_frame_820.jpg
+- AR2 - 1_frame_824.jpg
+- AR2 - 2_frame_1019.jpg
+- AR2 - 2_frame_1020.jpg
+- AR2 - 2_frame_1021.jpg
+- AR2 - 2_frame_1022.jpg
+- AR2 - 2_frame_1023.jpg
+- AR2 - 2_frame_1024.jpg
+- AR2 - 2_frame_1025.jpg
+- AR2 - 2_frame_1026.jpg
+- AR2 - 2_frame_1027.jpg
+- AR2 - 2_frame_1028.jpg
+- AR2 - 2_frame_1029.jpg
+- AR2 - 2_frame_1030.jpg
+- AR2 - 2_frame_1031.jpg
+- AR2 - 2_frame_1032.jpg
+- AR2 - 2_frame_1033.jpg
+- AR2 - 2_frame_1034.jpg
+- AR2 - 2_frame_1035.jpg
+- AR2 - 2_frame_1036.jpg
+- AR2 - 2_frame_1037.jpg
+- AR2 - 2_frame_1038.jpg
+- AR2 - 2_frame_1039.jpg
+- AR2 - 2_frame_1040.jpg
+- AR2 - 2_frame_1041.jpg
+- AR2 - 2_frame_1042.jpg
+- AR2 - 2_frame_1043.jpg
+- AR2 - 2_frame_1044.jpg
+- AR2 - 2_frame_1045.jpg
+- AR2 - 2_frame_1046.jpg
+- AR2 - 2_frame_1047.jpg
+- AR2 - 2_frame_1048.jpg
+- AR2 - 2_frame_1049.jpg
+- AR2 - 2_frame_1050.jpg
+- AR2 - 2_frame_1051.jpg
+- AR2 - 2_frame_1052.jpg
+- AR2 - 2_frame_1053.jpg
+- AR2 - 2_frame_1054.jpg
+- AR2 - 2_frame_1055.jpg
+- AR2 - 2_frame_1056.jpg
+- AR2 - 2_frame_1057.jpg
+- AR2 - 2_frame_1058.jpg
+- AR2 - 2_frame_1059.jpg
+- AR2 - 2_frame_1060.jpg
+- AR2 - 2_frame_1061.jpg
+- AR2 - 2_frame_1062.jpg
+- AR2 - 2_frame_1063.jpg
+- AR2 - 2_frame_1064.jpg
+- AR2 - 2_frame_1065.jpg
+- AR2 - 2_frame_1066.jpg
+- AR2 - 2_frame_1067.jpg
+- AR2 - 2_frame_1068.jpg
+- AR2 - 2_frame_1069.jpg
+- AR2 - 2_frame_1070.jpg
+- AR2 - 2_frame_1071.jpg
+- AR2 - 2_frame_1072.jpg
+- AR2 - 2_frame_1073.jpg
+- AR2 - 2_frame_1074.jpg
+- AR2 - 2_frame_1075.jpg
+- AR2 - 2_frame_1076.jpg
+- AR2 - 2_frame_1077.jpg
+- AR2 - 2_frame_1078.jpg
+- AR2 - 2_frame_1079.jpg
+- AR2 - 2_frame_1080.jpg
+- AR2 - 2_frame_1081.jpg
+- AR2 - 2_frame_1082.jpg
+- AR2 - 2_frame_1083.jpg
+- AR2 - 2_frame_1084.jpg
+- AR2 - 2_frame_1085.jpg
+- AR2 - 2_frame_1086.jpg
+- AR2 - 2_frame_1087.jpg
+- AR2 - 2_frame_1088.jpg
+- AR2 - 2_frame_1089.jpg
+- AR2 - 2_frame_1090.jpg
+- AR2 - 2_frame_1091.jpg
+- AR2 - 2_frame_1092.jpg
+- AR2 - 2_frame_1093.jpg
+- AR2 - 2_frame_1094.jpg
+- AR2 - 2_frame_1095.jpg
+- AR2 - 2_frame_1096.jpg
+- AR2 - 2_frame_1097.jpg
+- AR2 - 2_frame_1098.jpg
+- AR2 - 2_frame_1099.jpg
+- AR2 - 2_frame_1100.jpg
+- AR2 - 2_frame_1101.jpg
+- AR2 - 2_frame_1102.jpg
+- AR2 - 2_frame_1103.jpg
+- AR2 - 2_frame_1104.jpg
+- AR2 - 2_frame_1105.jpg
+- AR2 - 2_frame_1106.jpg
+- AR2 - 2_frame_1107.jpg
+- AR2 - 2_frame_1108.jpg
+- AR2 - 2_frame_1109.jpg
+- AR2 - 2_frame_1110.jpg
+- AR2 - 2_frame_1111.jpg
+- AR2 - 2_frame_1112.jpg
+- AR2 - 2_frame_1113.jpg
+- AR2 - 2_frame_1114.jpg
+- AR2 - 2_frame_1115.jpg
+- AR2 - 2_frame_1116.jpg
+- AR2 - 2_frame_1117.jpg
+- AR2 - 2_frame_1118.jpg
+- AR2 - 2_frame_1119.jpg
+- AR2 - 2_frame_1120.jpg
+- AR2 - 2_frame_1121.jpg
+- AR2 - 2_frame_1122.jpg
+- AR2 - 2_frame_1123.jpg
+- AR2 - 2_frame_1124.jpg
+- AR2 - 2_frame_599.jpg
+- AR2 - 2_frame_600.jpg
+- AR2 - 2_frame_601.jpg
+- AR2 - 2_frame_602.jpg
+- AR2 - 2_frame_603.jpg
+- AR2 - 2_frame_604.jpg
+- AR2 - 2_frame_605.jpg
+- AR2 - 2_frame_606.jpg
+- AR2 - 2_frame_607.jpg
+- AR2 - 2_frame_608.jpg
+- AR2 - 2_frame_609.jpg
+- AR2 - 2_frame_610.jpg
+- AR2 - 2_frame_611.jpg
+- AR2 - 2_frame_612.jpg
+- AR2 - 2_frame_613.jpg
+- AR2 - 2_frame_614.jpg
+- AR2 - 2_frame_615.jpg
+- AR2 - 2_frame_616.jpg
+- AR2 - 2_frame_617.jpg
+- AR2 - 2_frame_618.jpg
+- AR2 - 2_frame_619.jpg
+- AR2 - 2_frame_620.jpg
+- AR2 - 2_frame_621.jpg
+- AR2 - 2_frame_622.jpg
+- AR2 - 2_frame_623.jpg
+- AR2 - 2_frame_624.jpg
+- AR2 - 2_frame_625.jpg
+- AR2 - 2_frame_626.jpg
+train_img:
+- 002631c6-AR2_-_1_frame_1315.jpg
+- 02027e8c-AR2_-_1_frame_2457.jpg
+- 044eee2e-AR2_-_1_frame_3044.jpg
+- 05c4c5d8-AR2_-_1_frame_1243.jpg
+- 0ac5bdf0-AR2_-_1_frame_2572.jpg
+- 0aee72ca-AR2_-_1_frame_3039.jpg
+- 0d3a9223-AR2_-_1_frame_1764.jpg
+- 0d6ddab9-AR2_-_1_frame_1813.jpg
+- 0d9a4f1e-AR2_-_1_frame_2106.jpg
+- 1065490c-AR2_-_1_frame_2105.jpg
+- 108c2ef3-AR2_-_1_frame_1804.jpg
+- 109a376c-AR2_-_1_frame_1769.jpg
+- 11df6141-AR2_-_1_frame_1893.jpg
+- 13ef94e9-AR2_-_1_frame_1322.jpg
+- 141123b7-AR2_-_1_frame_1706.jpg
+- 148e0fe7-AR2_-_1_frame_1814.jpg
+- 180b5e0a-AR2_-_1_frame_1708.jpg
+- 19a48ed9-AR2_-_1_frame_1225.jpg
+- 1a8ba06c-AR2_-_1_frame_1149.jpg
+- 1b0652a6-AR2_-_1_frame_1308.jpg
+- 1b18bea6-AR2_-_1_frame_3038.jpg
+- 1b89ce35-AR2_-_1_frame_1321.jpg
+- 204f62b6-AR2_-_1_frame_2747.jpg
+- 244069ea-AR2_-_1_frame_1319.jpg
+- 253cd7b6-AR2_-_1_frame_1998.jpg
+- 2635df9b-AR2_-_1_frame_1611.jpg
+- 2a5e0f9a-AR2_-_1_frame_1809.jpg
+- 2b0ada8b-AR2_-_1_frame_2937.jpg
+- 2daed09b-AR2_-_1_frame_1229.jpg
+- 2e1d355f-AR2_-_1_frame_1318.jpg
+- 2e3d7cd4-AR2_-_1_frame_1763.jpg
+- 2f1b7089-AR2_-_1_frame_1811.jpg
+- 2f762778-AR2_-_1_frame_1221.jpg
+- 2f79f03c-AR2_-_1_frame_1396.jpg
+- 30e313e2-AR2_-_1_frame_1607.jpg
+- 313c5f67-AR2_-_1_frame_1704.jpg
+- 32636f34-AR2_-_1_frame_3046.jpg
+- 32c1c480-AR2_-_1_frame_1320.jpg
+- 335e3441-AR2_-_1_frame_1397.jpg
+- 33bae425-AR2_-_1_frame_1137.jpg
+- 344f9340-AR2_-_1_frame_1228.jpg
+- 345e3a98-AR2_-_1_frame_1610.jpg
+- 347dff49-AR2_-_1_frame_3234.jpg
+- 348d6b3a-AR2_-_1_frame_2558.jpg
+- 3572282a-AR2_-_1_frame_1958.jpg
+- 3603a51e-AR2_-_1_frame_2112.jpg
+- 36e3393c-AR2_-_1_frame_3233.jpg
+- 37efc885-AR2_-_1_frame_3236.jpg
+- 38783f33-AR2_-_1_frame_1668.jpg
+- 3f3d13d6-AR2_-_1_frame_1956.jpg
+- 44c40399-AR2_-_1_frame_1284.jpg
+- 45fecc07-AR2_-_1_frame_1955.jpg
+- 4a4e089a-AR2_-_1_frame_1141.jpg
+- 4b257ab3-AR2_-_1_frame_1634.jpg
+- 4bb5a815-AR2_-_1_frame_1399.jpg
+- 4bff3614-AR2_-_1_frame_1129.jpg
+- 4c1e5b51-AR2_-_1_frame_3048.jpg
+- 4e179ac3-AR2_-_1_frame_1897.jpg
+- 4f8e98c0-AR2_-_1_frame_2658.jpg
+- 509ac1fe-AR2_-_1_frame_3235.jpg
+- 50a064b3-AR2_-_1_frame_2943.jpg
+- 519997c6-AR2_-_1_frame_3482.jpg
+- 529b01cf-AR2_-_1_frame_1767.jpg
+- 54794ab6-AR2_-_1_frame_3498.jpg
+- 592e3ecf-AR2_-_1_frame_1311.jpg
+- 5a6f1911-AR2_-_1_frame_1608.jpg
+- 5b74d6be-AR2_-_1_frame_1408.jpg
+- 5c668304-AR2_-_1_frame_3466.jpg
+- 5d0891f4-AR2_-_1_frame_3042.jpg
+- 604ec13b-AR2_-_1_frame_3041.jpg
+- 6348a613-AR2_-_1_frame_2657.jpg
+- 6404633a-AR2_-_1_frame_3229.jpg
+- 66321b98-AR2_-_1_frame_1404.jpg
+- 669dffc4-AR2_-_1_frame_1394.jpg
+- 68d95907-AR2_-_1_frame_1240.jpg
+- 696161ae-AR2_-_1_frame_2964.jpg
+- 6c392f5f-AR2_-_1_frame_1895.jpg
+- 6c44ebcb-AR2_-_1_frame_3043.jpg
+- 6c4665a9-AR2_-_1_frame_2936.jpg
+- 6e6090c5-AR2_-_1_frame_1194.jpg
+- 6ebe6012-AR2_-_1_frame_1612.jpg
+- 6ef05ebe-AR2_-_1_frame_1807.jpg
+- 7057c2f7-AR2_-_1_frame_1765.jpg
+- 7212ffad-AR2_-_1_frame_2524.jpg
+- 731fc0d7-AR2_-_1_frame_1896.jpg
+- 73f38a9f-AR2_-_1_frame_1710.jpg
+- 74226044-AR2_-_1_frame_1413.jpg
+- 7424d9e4-AR2_-_1_frame_1709.jpg
+- 74ce7358-AR2_-_1_frame_1223.jpg
+- 75ea10e1-AR2_-_1_frame_2938.jpg
+- 76e60919-AR2_-_1_frame_1220.jpg
+- 77af8985-AR2_-_1_frame_1957.jpg
+- 7819daef-AR2_-_1_frame_3037.jpg
+- 78f1ba74-AR2_-_1_frame_1323.jpg
+- 794ec221-AR2_-_1_frame_2462.jpg
+- 7acc14a8-AR2_-_1_frame_1402.jpg
+- 7bec5313-AR2_-_1_frame_1406.jpg
+- 7c204a02-AR2_-_1_frame_1395.jpg
+- 7c980d79-AR2_-_1_frame_1283.jpg
+- 7cf003c4-AR2_-_1_frame_1959.jpg
+- 7e7517d2-AR2_-_1_frame_1805.jpg
+- 7ef59ed5-AR2_-_1_frame_1665.jpg
+- 7f2a5058-AR2_-_1_frame_2939.jpg
+- 7f3392d4-AR2_-_1_frame_1316.jpg
+- 8059970f-AR2_-_1_frame_3230.jpg
+- 8154a8ff-AR2_-_1_frame_2941.jpg
+- 82b650e3-AR2_-_1_frame_1892.jpg
+- 8397feba-AR2_-_1_frame_1961.jpg
+- 83b28344-AR2_-_1_frame_2108.jpg
+- 84cee39c-AR2_-_1_frame_1818.jpg
+- 850954a0-AR2_-_1_frame_1145.jpg
+- 892f9627-AR2_-_1_frame_1412.jpg
+- 89ee30f2-AR2_-_1_frame_1806.jpg
+- 8a544b0c-AR2_-_1_frame_1407.jpg
+- 8a73d2d2-AR2_-_1_frame_2555.jpg
+- 8c9993cf-AR2_-_1_frame_1609.jpg
+- 8fb5c3ec-AR2_-_1_frame_1224.jpg
+- 931a8c78-AR2_-_1_frame_1667.jpg
+- 9562e9d0-AR2_-_1_frame_1222.jpg
+- 95756920-AR2_-_1_frame_1317.jpg
+- 96183517-AR2_-_1_frame_1401.jpg
+- 976a4934-AR2_-_1_frame_2556.jpg
+- 97fe8eb4-AR2_-_1_frame_1409.jpg
+- 99ce27eb-AR2_-_1_frame_1410.jpg
+- 9bc6a2fa-AR2_-_1_frame_3490.jpg
+- 9c6aeb40-AR2_-_1_frame_1227.jpg
+- 9d2df13b-AR2_-_1_frame_1816.jpg
+- 9ebc9c8a-AR2_-_1_frame_1310.jpg
+- 9f590904-AR2_-_1_frame_1705.jpg
+- a08bf6af-AR2_-_1_frame_2458.jpg
+- a128eaea-AR2_-_1_frame_2461.jpg
+- a1d6ac3c-AR2_-_1_frame_2655.jpg
+- a3011299-AR2_-_1_frame_2940.jpg
+- a591a84a-AR2_-_1_frame_3231.jpg
+- a756ffe0-AR2_-_1_frame_1808.jpg
+- a855e290-AR2_-_1_frame_1226.jpg
+- aaae4250-AR2_-_1_frame_1133.jpg
+- ac43576f-AR2_-_1_frame_3232.jpg
+- af77e055-AR2_-_1_frame_2751.jpg
+- b0341c7b-AR2_-_1_frame_1898.jpg
+- b04c8826-AR2_-_1_frame_2104.jpg
+- b0c575cc-AR2_-_1_frame_1707.jpg
+- b101fd44-AR2_-_1_frame_1239.jpg
+- b17cd5d7-AR2_-_1_frame_1314.jpg
+- b2197108-AR2_-_1_frame_1666.jpg
+- b2798abb-AR2_-_1_frame_1230.jpg
+- b30f1170-AR2_-_1_frame_2460.jpg
+- b33bf0b1-AR2_-_1_frame_1313.jpg
+- b36d7451-AR2_-_1_frame_1635.jpg
+- b5c805c9-AR2_-_1_frame_2575.jpg
+- b8bca2bb-AR2_-_1_frame_1812.jpg
+- bc36b87b-AR2_-_1_frame_2942.jpg
+- c2640df6-AR2_-_1_frame_1711.jpg
+- c3acc6d5-AR2_-_1_frame_1312.jpg
+- c3c4e15e-AR2_-_1_frame_3478.jpg
+- c4fd6c72-AR2_-_1_frame_1150.jpg
+- c7c63f86-AR2_-_1_frame_1613.jpg
+- c8687fd0-AR2_-_1_frame_1960.jpg
+- c8d5f344-AR2_-_1_frame_2111.jpg
+train_launcher: C:\ConceivableProjects\Rutine2\v0.0.1\Launchers\train.bat
+val_bg:
+- AR2 - 2_frame_627.jpg
+- AR2 - 2_frame_628.jpg
+- AR2 - 2_frame_629.jpg
+- AR2 - 2_frame_630.jpg
+- AR2 - 2_frame_631.jpg
+- AR2 - 2_frame_632.jpg
+- AR2 - 2_frame_633.jpg
+- AR2 - 2_frame_634.jpg
+- AR2 - 2_frame_635.jpg
+- AR2 - 2_frame_636.jpg
+- AR2 - 2_frame_637.jpg
+- AR2 - 2_frame_638.jpg
+- AR2 - 2_frame_894.jpg
+- AR2 - 2_frame_895.jpg
+- AR2 - 2_frame_896.jpg
+- AR2 - 2_frame_897.jpg
+- AR2 - 2_frame_898.jpg
+- AR2 - 2_frame_899.jpg
+- AR2 - 2_frame_900.jpg
+- AR2 - 2_frame_901.jpg
+- AR2 - 2_frame_902.jpg
+- AR2 - 2_frame_903.jpg
+- AR2 - 2_frame_904.jpg
+- AR2 - 2_frame_905.jpg
+- AR2 - 2_frame_906.jpg
+- AR2 - 2_frame_907.jpg
+- AR2 - 2_frame_908.jpg
+- AR2 - 2_frame_909.jpg
+- AR2 - 2_frame_910.jpg
+val_img:
+- cb649b93-AR2_-_1_frame_3502.jpg
+- cd1796e7-AR2_-_1_frame_3228.jpg
+- cd696c5e-AR2_-_1_frame_2656.jpg
+- ce965b23-AR2_-_1_frame_2523.jpg
+- cebff262-AR2_-_1_frame_1400.jpg
+- cecda7f8-AR2_-_1_frame_2495.jpg
+- d0a3c32c-AR2_-_1_frame_1636.jpg
+- d1c2cc87-AR2_-_1_frame_2113.jpg
+- d349d404-AR2_-_1_frame_2554.jpg
+- d3c8fcb2-AR2_-_1_frame_3470.jpg
+- d5c097f4-AR2_-_1_frame_1810.jpg
+- d65adc3b-AR2_-_1_frame_2553.jpg
+- d7347884-AR2_-_1_frame_1309.jpg
+- d99ae21e-AR2_-_1_frame_1398.jpg
+- d9db9580-AR2_-_1_frame_1768.jpg
+- daacb9c8-AR2_-_1_frame_3040.jpg
+- dc1511b0-AR2_-_1_frame_3045.jpg
+- dc65ad83-AR2_-_1_frame_1817.jpg
+- dd521675-AR2_-_1_frame_1766.jpg
+- de103384-AR2_-_1_frame_1190.jpg
+- dec95056-AR2_-_1_frame_3035.jpg
+- df742159-AR2_-_1_frame_2110.jpg
+- df824339-AR2_-_1_frame_1815.jpg
+- e19e1a21-AR2_-_1_frame_2557.jpg
+- e1ab3412-AR2_-_1_frame_1282.jpg
+- e895eb78-AR2_-_1_frame_3047.jpg
+- ec5007b9-AR2_-_1_frame_1637.jpg
+- f07e6842-AR2_-_1_frame_1894.jpg
+- f22e4749-AR2_-_1_frame_1125.jpg
+- f271153a-AR2_-_1_frame_1819.jpg
+- f3053a6c-AR2_-_1_frame_1403.jpg
+- f584a486-AR2_-_1_frame_1405.jpg
+- f690306f-AR2_-_1_frame_1997.jpg
+- f691a157-AR2_-_1_frame_2459.jpg
+- f6ddfd81-AR2_-_1_frame_2109.jpg
+- fb7803b2-AR2_-_1_frame_2463.jpg
+- fda3fc62-AR2_-_1_frame_2107.jpg
+- fe52d920-AR2_-_1_frame_1669.jpg
+weights_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Weights
+y_folder_path: yolov5
+yamls_folder: C:\ConceivableProjects\Rutine2\v0.0.1\Config
+yolov5l_classes_config_yaml: C:\ConceivableProjects\Rutine2\v0.0.1\Config\yolov5l_classes_config.yaml
